@@ -1,0 +1,16 @@
+{
+    "name": "kimit/crud",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kimit\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raghda Helmy",
+            "email": "raghda.helmy82@gmail.com"
+        }
+    ],
+    "require": {}
+}
