@@ -1,5 +1,5 @@
 {
-    "name": "kimit-crud",
+    "name": "library/crud",
     "type": "library",
     "autoload": {
         "psr-4": {
