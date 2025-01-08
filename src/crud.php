@@ -1,4 +1,5 @@
 <?php
+namespace Kimit\Crud;
 use PDO;
 abstract class CRUD
 {
