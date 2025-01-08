@@ -1,5 +1,5 @@
 {
-    "name": "library/crud",
+    "name": "Raghda/CRUD",
     "type": "library",
     "autoload": {
         "psr-4": {
