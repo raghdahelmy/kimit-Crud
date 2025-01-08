@@ -1,7 +1,7 @@
 <?php
 namespace Kimit\Crud;
 use PDO;
-abstract class CRUD
+abstract class crud
 {
     protected $connection;
     protected $query;
